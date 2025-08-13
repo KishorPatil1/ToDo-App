@@ -136,17 +136,3 @@ The app uses a simple file-based storage system:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Author 👨‍💻
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## Acknowledgments 🙏
-
-- Material Design Components for beautiful UI elements
-- Android development community for resources and inspiration
-
----
-
-**Happy task managing! 📝✅**
